@@ -1,6 +1,7 @@
-# Script pour Cronus Max/Zen
+# SCRIPT POUR CRONUS MAX/ZEN
 ---------------------------------
-# Script AIM HELPER (PC / PLAY / XBOX)
+
+# AIM HELPER (PC / PLAY / XBOX)
 - Enemy tracking 
 - Extreme aim abuse 
 - Headshot prediction 
@@ -10,7 +11,7 @@
 - Jitter Mod 
 - Dropshot
 
-# Jeu prit en charge ? 
+# JEU PRIS EN CHARGE ? 
 - CALL OF DUTY BLACK OPS COLD WAR
 - CALL OF DUTY MODERN WARFARE 2019
 - CALL OF DUTY WARZONE
@@ -18,4 +19,5 @@
 - CALL OF DUTY MW3 REMASTERED
 - CALL OF DUTY BLACK OPS 3
 - CALL OF DUTY ADVANCED WARAFRE
+
 ---------------------------------
